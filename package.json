@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.13.0",
+  "description": "Simple web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturAllen/Intro-to-Node.git"
+  },
+  "author": "Artur Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturAllen/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/ArturAllen/Intro-to-Node#readme"
+}
